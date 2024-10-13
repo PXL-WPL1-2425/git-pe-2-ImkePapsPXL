@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 33.333%;
+}
+.menu{
+    width: 33.333%;
+}
+.sign-in{
+    width: 33.333%;
+}
