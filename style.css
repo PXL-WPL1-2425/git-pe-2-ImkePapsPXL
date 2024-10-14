@@ -8,25 +8,16 @@
     flex-direction: row;
     width: 100%;
 
-.logo{
-width: 33.33%;
+
 }
-    .menu {
-        width: 33.33%;
-    }
-    .log_in{
-        width: 33.33%;
-    }
+#riot_logo{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: -55px;
+    left: 0;
+    right: 0;
 }
-/*}*/
-/*#riot_logo{*/
-/*    width: 150px;*/
-/*    height: 150px;*/
-/*    position: absolute;*/
-/*    top: -55px;*/
-/*    left: 0;*/
-/*    right: 0;*/
-/*}*/
 /*.menu{*/
 /*    width: 33.333%;*/
 /*    justify-content: center;*/
